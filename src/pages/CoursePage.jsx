@@ -17,7 +17,7 @@ const CoursePage = () => {
   const modules = [
     {
       id: 1,
-      title: "Welcome to the Journey",
+      title: "Welcome to the Fun",
       description: "What is a Vision Board & Why it Works. Evidence-Based Practices & Law of Attraction. Your Sacred Commitment to Begin.",
       duration: "45 min",
       activities: ["Journal Prompt", "Sacred Commitment"],
