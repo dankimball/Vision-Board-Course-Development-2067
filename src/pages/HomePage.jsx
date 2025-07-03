@@ -11,7 +11,7 @@ const HomePage = () => {
     {
       icon: FiCompass,
       title: "Sacred Self-Discovery",
-      description: "Journey through shadow work, character strengths, and archetypal wisdom to discover your authentic self."
+      description: "Travel through your character strengths, and archetypal wisdom to discover your authentic self."
     },
     {
       icon: FiHeart,
