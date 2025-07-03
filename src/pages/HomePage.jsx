@@ -61,14 +61,14 @@ const HomePage = () => {
               </h1>
               
               <p className="text-xl lg:text-2xl text-mystical-600 font-light">
-                A Vision Board Journey Through Strengths, Aspiration, and Purpose
+              LETS DO THIS NOW https://dreamy-eclair-e6aef6.netlify.app
               </p>
               
               <div className="max-w-3xl mx-auto">
                 <p className="text-lg text-mystical-600 leading-relaxed">
                   This immersive course blends creative self-discovery with proven psychological tools 
                   to help you craft a life-aligned vision board rooted in character strengths, 
-                  the ARIA model of change, and PERMA well-being.
+                  the ARIA model of change, and PERMA well-being.  IS NT THAT GREAT
                 </p>
               </div>
 
